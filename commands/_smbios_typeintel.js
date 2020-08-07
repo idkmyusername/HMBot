@@ -5,7 +5,7 @@
   auto_retry_time: 
   folder: 
   answer: Выберите тип процессора внизу.
-  keyboard: Intel Core\n Домой
+  keyboard: Intel Core, Intel Xeon\n Домой
   aliases: intel
 CMD*/
 
