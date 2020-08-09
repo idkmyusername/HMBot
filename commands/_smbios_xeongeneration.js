@@ -5,7 +5,7 @@
   auto_retry_time: 
   folder: 
   answer: Выберите подтип / поколение процессора.
-  keyboard: Подтип E, Подтип W\n Подтип E5\n Выход
+  keyboard: Подтип E, Подтип W\n Подтип E3, Подтип E5\n Выход
   aliases: intel xeon
 CMD*/
 

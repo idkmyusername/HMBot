@@ -1,11 +1,11 @@
 /*CMD
-  command: /smbios_7300HQ
+  command: /smbios_E31281v3
   help: Быстрый выбор SMBIOS
   need_reply: 
   auto_retry_time: 
-  folder: 7300HQ
+  folder: E3-1281 v3
   answer: Отлично. Теперь выберите совместимую видеокарту с этим процессором.
-  keyboard: Intel HD Graphics 630 (7300HQ)\n Домой
-  aliases: intel core i5-7300hq
+  keyboard: Любая поддерживаемая (E5-1281 v3)\n Домой
+  aliases: intel xeon e3-1281 v3
 CMD*/
 
