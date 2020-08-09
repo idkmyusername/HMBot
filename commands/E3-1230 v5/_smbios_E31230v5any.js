@@ -11,6 +11,6 @@
 Полный SMBIOS делайте через GenSMBIOS.
   ANSWER
   keyboard: Домой
-  aliases: любая поддерживаемая (e5-1230 v5)
+  aliases: любая поддерживаемая (e3-1230 v5)
 CMD*/
 

@@ -1,16 +1,16 @@
 /*CMD
-  command: /smbios_E31281v3any
+  command: /smbios_10710uUHD
   help: Быстрый выбор SMBIOS
   need_reply: 
   auto_retry_time: 
-  folder: E3-1281 v3
+  folder: 10710U
 
   <<ANSWER
-Идеальный SMBIOS для Вас: iMacPro1,1
+Идеальный SMBIOS для Вас: MacBookPro15,4
 
 Полный SMBIOS делайте через GenSMBIOS.
   ANSWER
   keyboard: Домой
-  aliases: любая поддерживаемая (e3-1281 v3)
+  aliases: intel uhd graphics (i7-10710u)
 CMD*/
 

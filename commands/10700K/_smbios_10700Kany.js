@@ -1,16 +1,16 @@
 /*CMD
-  command: /smbios_E31281v3any
+  command: /smbios_10700Kany
   help: Быстрый выбор SMBIOS
   need_reply: 
   auto_retry_time: 
-  folder: E3-1281 v3
+  folder: 10700K
 
   <<ANSWER
-Идеальный SMBIOS для Вас: iMacPro1,1
+Идеальный SMBIOS для Вас: iMac20,1
 
 Полный SMBIOS делайте через GenSMBIOS.
   ANSWER
   keyboard: Домой
-  aliases: любая поддерживаемая (e3-1281 v3)
+  aliases: любая поддерживаемая (i7-10700k)
 CMD*/
 

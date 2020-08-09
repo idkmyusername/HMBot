@@ -1,11 +1,11 @@
 /*CMD
-  command: /smbios_E31230v5
+  command: /smbios_10710U
   help: Быстрый выбор SMBIOS
   need_reply: 
   auto_retry_time: 
-  folder: E3-1230 v5
+  folder: 10710U
   answer: Отлично. Теперь выберите совместимую видеокарту с этим процессором.
-  keyboard: Любая поддерживаемая (E3-1230 v5)\n Домой
-  aliases: intel xeon e3-1230 v5
+  keyboard: Intel UHD Graphics (i7-10710U)\n Домой
+  aliases: intel core i7-10710u
 CMD*/
 
